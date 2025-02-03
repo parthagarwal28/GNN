@@ -17,7 +17,7 @@ I applied this enhanced framework to the **Cora dataset** for **node classificat
 4. **Efficiency in Graph-Based Learning**  
    - Demonstrated **computational efficiency** with minimal accuracy loss when compared to training on the original graph.  
 
-
+<div align="center">
 ### Dataset Splitting Details
 
 | **Subset**   | **Number of Nodes** |
@@ -50,6 +50,7 @@ I applied this enhanced framework to the **Cora dataset** for **node classificat
 | FGC + GCN       | 88.60                     | 83.70                       | 77.94                 |
 
 
+</div>
 
 While the coarsened graph shows a slight reduction in accuracy, it retains sufficient performance for practical applications while significantly reducing computational complexity. This trade-off is valuable, especially for large-scale graph-based tasks.
 
