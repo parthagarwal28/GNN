@@ -17,7 +17,11 @@ I applied this enhanced framework to the **Cora dataset** for **node classificat
 4. **Efficiency in Graph-Based Learning**  
    - Demonstrated **computational efficiency** with minimal accuracy loss when compared to training on the original graph.  
 
+
+
+
 <div align="center">
+   
 ### Dataset Splitting Details
 
 | **Subset**   | **Number of Nodes** |
@@ -29,6 +33,9 @@ I applied this enhanced framework to the **Cora dataset** for **node classificat
 
 
 
+<br>
+
+
 ### Final Accuracies on Training, Validation, and Test Datasets
 
 | **Dataset**   | **Accuracy (%)** |
@@ -36,6 +43,10 @@ I applied this enhanced framework to the **Cora dataset** for **node classificat
 | Training      | 88.60            |
 | Validation    | 83.70            |
 | Test          | 77.94            |
+
+
+
+<br>
 
 
 
